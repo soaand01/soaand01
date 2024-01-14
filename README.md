@@ -57,6 +57,20 @@ You might be curious about my channe I know, so check it below:
   So now I was happy that I had a salary and cold help at home and buy my own stuffs, and who knows a computer?! But step by step and I learned from my parents that would be smarter to use the money to pay and join an university rather than buy it now, so, this is what I did, I joineed the Computer Science in 2019, that time I remember that used to pay around 250 brazilian reais, and my salary was 1000, so I had money to pay it, help at home, and save for my laptop which was around 3000 and I was able to save around 200 every month.
    Well, I worked in this job untill to complete 18 years old, this is because I volunteered to the Brazilian Army, actually in Brazil when you complete 17 you must "sign up" saying you are about to complete 18, so it might happen that even if you don't want to join the Army, they you will take you anyway, which is not my case, I said I wanted to join since the day one, and it happened, I joined the Army in 2010.
    This was most tiresome moment of my life I guess, but also the one where I have so many good memories, I wouldn't change anything, I was still going to the university and the Army at the same time, so it was very tiresome, my salary went from 1000 in the printer company to 500 brazilian reais in the Army, yes, but salary was cut in half and I still needed to pay 250 for the university. *SPOILER* I still didn't have my laptop/computer, but I was able already to use the one from the university whenever I had time.
-   Life might be hard as a soldier but also can be nice, since I was in the computer science in the university, the army had a program of paying traning to the soldiers, and I asked if they could "pay" me a Linux training, wooow, that was really nice, I did this traininfg
+   Life might be hard as a soldier but also can be nice, since I was in the computer science in the university, the army had a program of paying traning to the soldiers, and I asked if they could "pay" me a Linux training, wooow, that was really nice, I did this traininfg, I was amazing 3 weeks.Life kept going in the army for until I saw an advertisement of internship program of a North American company, in Sao Paulo, my city, they were hiring young talents, so I applied and got the internship job, thanks to the Linux traning.
+   I will summary the rest so in an opportunity of working with me we can talk more, but in this company I worked 8 years, from intership to Senior Platform Engineer, moved to Netherlands, worked as Linu Engineer, SRE, CloudOps, DevOps, took more than 10 certifications
+
+
+[comment]: # (Badges)
+<details>
+<summary>Badges</summary>
+<div style="display: flex; flex-direction: column;" align="center">
+  <img src="https://github.com/Rapha-Borges/Rapha-Borges/assets/53947674/433675d3-defb-4f0e-a223-1d8f69eea87e" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
+  <img src="https://github.com/Rapha-Borges/Rapha-Borges/assets/53947674/77a58ceb-5761-4d09-ae92-62be74c8ac61" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
+  <img src="https://user-images.githubusercontent.com/53947674/218383400-81cb9b2b-1679-4f34-a71c-c88fb1d472dc.png" style="width: 180px; height: 180px; display: inline;
+margin-right: 30px !important;">
+  <img src="https://user-images.githubusercontent.com/53947674/210863646-79eeee79-6ceb-42a3-beb9-79ffcd8f9bf6.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
+  <img src="https://user-images.githubusercontent.com/53947674/210869899-cbb242b9-db7c-4f69-a678-9c5bbd3bd86d.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
+  <img src="https://user-images.githubusercontent.com/53947674/210869925-e7672e5a-6a6e-4caf-a582-486e109226c8.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
    
    
