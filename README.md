@@ -40,12 +40,12 @@ You might be curious about my channe I know, so check it below:
 
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Christmas feeling!](https://ytcards.demolab.com/?id=BSs-hza-ozo&title=Christmas+feeling%21&lang=en&timestamp=1701369578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Christmas feeling!")](https://www.youtube.com/watch?v=BSs-hza-ozo)
 [![Azure Hub & Spoke architecture. #azure #devops  #cloud  #aws #microsoft  #technology](https://ytcards.demolab.com/?id=eZkYr-509pw&title=Azure+Hub+%26+Spoke+architecture.+%23azure+%23devops++%23cloud++%23aws+%23microsoft++%23technology&lang=en&timestamp=1687466210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Hub & Spoke architecture. #azure #devops  #cloud  #aws #microsoft  #technology")](https://www.youtube.com/watch?v=eZkYr-509pw)
 [![Criando um Virtual Network Peering](https://ytcards.demolab.com/?id=1Abybel3RYU&title=Criando+um+Virtual+Network+Peering&lang=en&timestamp=1679610415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Criando um Virtual Network Peering")](https://www.youtube.com/watch?v=1Abybel3RYU)
 [![Como se tornar DevOps engineer em 2023?](https://ytcards.demolab.com/?id=MlRqu4IlAfI&title=Como+se+tornar+DevOps+engineer+em+2023%3F&lang=en&timestamp=1678399961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como se tornar DevOps engineer em 2023?")](https://www.youtube.com/watch?v=MlRqu4IlAfI)
 [![AKS with Azure Application Gateway Ingress Controller](https://ytcards.demolab.com/?id=GPhSihNlzMk&title=AKS+with+Azure+Application+Gateway+Ingress+Controller&lang=en&timestamp=1678262413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AKS with Azure Application Gateway Ingress Controller")](https://www.youtube.com/watch?v=GPhSihNlzMk)
 [![Microsoft Cloud Native Day](https://ytcards.demolab.com/?id=QSl9JVWKWCo&title=Microsoft+Cloud+Native+Day&lang=en&timestamp=1677092419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Microsoft Cloud Native Day")](https://www.youtube.com/watch?v=QSl9JVWKWCo)
+[![AZ-104 - Resumão modulo 1](https://ytcards.demolab.com/?id=0XIkQDQjo0A&title=AZ-104+-+Resum%C3%A3o+modulo+1&lang=en&timestamp=1676930400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AZ-104 - Resumão modulo 1")](https://www.youtube.com/watch?v=0XIkQDQjo0A)
 <!-- END YOUTUBE-CARDS -->
 
 #
