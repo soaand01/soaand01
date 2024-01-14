@@ -1,11 +1,13 @@
-# <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Anderson Soares ( Also know and Landu Digital )
+# <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  Anderson Lopes
 
-**`latform Engineer (Devops/Cloud/runner/Creator)`**
+**`Platform Engineer (DevOps/Cloud/Creator)`**
 
-Currently getting paid to resolve critical issues with Cloud Computing and Kubernetes. I also own a YouTube channel, actually I am learning every time about it, how to edit and these kind of things, but I love to share knowledge doesn't matter how, so I try to broadcast my audiance to multiple platforms and also som blog posts. You might be curious about the channel, I know :) so "[landudigital][youtube]"
----
+Currently getting paid to resolve critical issues with Cloud computing, containers and Kubernetes. I also own a YouTube channel, actually I am learning every day about it, I know more of Tech then video editing but that's not a problem, I LOVE to share knowledge, as much as I can, doesn't matter how, so I try to broadcast my audiance to multiple platforms, I think I am getting good at it.
+You might be curious about my channe I know, so check it below:
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqN30hP5vl4F3lUFYXQNkNQ?style=flat-square&link=https%3A%2F%2Fwww.youtube.com%2F%40landudigital%3Fsub_confirmation%3D1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqN30hP5vl4F3lUFYXQNkNQ?style=flat-square&link=https%3A%2F%2Fwww.youtube.com%2F%40landudigital%3Fsub_confirmation%3D1)](https://www.youtube.com/@landudigital?sub_confirmation=1)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCqN30hP5vl4F3lUFYXQNkNQ?style=flat-square)](https://www.youtube.com/@landudigital?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/soaand01?style=flat-square&label=GitHub%20followers&color=black)](https://github.com/soaand01?tab=followers)
 
 
 
@@ -32,3 +34,4 @@ Currently getting paid to resolve critical issues with Cloud Computing and Kuber
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
