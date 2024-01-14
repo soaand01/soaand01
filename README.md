@@ -36,3 +36,8 @@ You might be curious about my channe I know, so check it below:
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
