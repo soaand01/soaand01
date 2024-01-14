@@ -26,7 +26,7 @@ You might be curious about my channe I know, so check it below: <br>
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" />
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <br><br>
-#
+
 
 
 ### 🤖 Languages
