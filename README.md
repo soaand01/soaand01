@@ -39,5 +39,10 @@ You might be curious about my channe I know, so check it below:
 ---
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![DevOps certifications](https://ytcards.demolab.com/?id=gpZ9soZjUx8&title=DevOps+certifications&lang=en&timestamp=1704805591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DevOps certifications")](https://www.youtube.com/watch?v=gpZ9soZjUx8)
+[![DEVWorld 2024](https://ytcards.demolab.com/?id=WDBuMVxpxYs&title=DEVWorld+2024&lang=en&timestamp=1704781675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DEVWorld 2024")](https://www.youtube.com/watch?v=WDBuMVxpxYs)
+[![OpenTofu](https://ytcards.demolab.com/?id=ZkIFgGQvzgw&title=OpenTofu&lang=en&timestamp=1704738496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OpenTofu")](https://www.youtube.com/watch?v=ZkIFgGQvzgw)
+[![Azure for architects #azure #devops](https://ytcards.demolab.com/?id=5Bh6eqpUXVM&title=Azure+for+architects+%23azure+%23devops&lang=en&timestamp=1704624901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure for architects #azure #devops")](https://www.youtube.com/watch?v=5Bh6eqpUXVM)
+[![Azure for Architects #azure #cloudcomputing #techcareer](https://ytcards.demolab.com/?id=leI2pZXnevw&title=Azure+for+Architects+%23azure+%23cloudcomputing+%23techcareer&lang=en&timestamp=1704446021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure for Architects #azure #cloudcomputing #techcareer")](https://www.youtube.com/watch?v=leI2pZXnevw)
+[![Free AWS courses #aws #sre #devops](https://ytcards.demolab.com/?id=Lqg8qpaccvo&title=Free+AWS+courses+%23aws+%23sre+%23devops&lang=en&timestamp=1704322487&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Free AWS courses #aws #sre #devops")](https://www.youtube.com/watch?v=Lqg8qpaccvo)
 <!-- END YOUTUBE-CARDS -->
