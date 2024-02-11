@@ -44,12 +44,12 @@ You might be curious about my channe I know, so check it below: <br>
 
 ### 📺 My latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Azure Private DNS na prática](https://ytcards.demolab.com/?id=IUCF5KJkBqs&title=Azure+Private+DNS+na+pr%C3%A1tica&lang=en&timestamp=1707678089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Private DNS na prática")](https://www.youtube.com/watch?v=IUCF5KJkBqs)
 [![Certificação GitHub](https://ytcards.demolab.com/?id=w9hVLIssF-k&title=Certifica%C3%A7%C3%A3o+GitHub&lang=en&timestamp=1706352028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Certificação GitHub")](https://www.youtube.com/watch?v=w9hVLIssF-k)
 [![Azure for Architects free download](https://ytcards.demolab.com/?id=3KgBXTzcmgg&title=Azure+for+Architects+free+download&lang=en&timestamp=1705783381&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure for Architects free download")](https://www.youtube.com/watch?v=3KgBXTzcmgg)
 [![DevOps Techs para 2024](https://ytcards.demolab.com/?id=5kbHZCSPGD0&title=DevOps+Techs+para+2024&lang=en&timestamp=1705782828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DevOps Techs para 2024")](https://www.youtube.com/watch?v=5kbHZCSPGD0)
 [![Azure Hub & Spoke architecture. #azure #devops  #cloud  #aws #microsoft  #technology](https://ytcards.demolab.com/?id=eZkYr-509pw&title=Azure+Hub+%26+Spoke+architecture.+%23azure+%23devops++%23cloud++%23aws+%23microsoft++%23technology&lang=en&timestamp=1687466210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Hub & Spoke architecture. #azure #devops  #cloud  #aws #microsoft  #technology")](https://www.youtube.com/watch?v=eZkYr-509pw)
 [![Criando um Virtual Network Peering](https://ytcards.demolab.com/?id=1Abybel3RYU&title=Criando+um+Virtual+Network+Peering&lang=en&timestamp=1679610415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Criando um Virtual Network Peering")](https://www.youtube.com/watch?v=1Abybel3RYU)
-[![Como se tornar DevOps engineer em 2023?](https://ytcards.demolab.com/?id=MlRqu4IlAfI&title=Como+se+tornar+DevOps+engineer+em+2023%3F&lang=en&timestamp=1678399961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como se tornar DevOps engineer em 2023?")](https://www.youtube.com/watch?v=MlRqu4IlAfI)
 <!-- END YOUTUBE-CARDS -->
 
 #
