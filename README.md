@@ -44,7 +44,12 @@ You might be curious about my channe I know, so check it below: <br>
 
 ### 📺 My latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Ganhe 50% desconto na sua próxima certificação Azure](https://ytcards.demolab.com/?id=mwYM6P3dIcA&title=Ganhe+50%25+desconto+na+sua+pr%C3%B3xima+certifica%C3%A7%C3%A3o+Azure&lang=en&timestamp=1709916753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ganhe 50% desconto na sua próxima certificação Azure")](https://www.youtube.com/watch?v=mwYM6P3dIcA)
+[![Azure Máquina Virtual simples e direto](https://ytcards.demolab.com/?id=1pmoFIH_LAw&title=Azure+M%C3%A1quina+Virtual+simples+e+direto&lang=en&timestamp=1709480269&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Máquina Virtual simples e direto")](https://www.youtube.com/watch?v=1pmoFIH_LAw)
+[![Conheça o Azure Updates](https://ytcards.demolab.com/?id=Wp-7p9Xd3ek&title=Conhe%C3%A7a+o+Azure+Updates&lang=en&timestamp=1709478942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Conheça o Azure Updates")](https://www.youtube.com/watch?v=Wp-7p9Xd3ek)
+[![Entenda Azure route table](https://ytcards.demolab.com/?id=nskYs4qUmX4&title=Entenda+Azure+route+table&lang=en&timestamp=1708941489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Entenda Azure route table")](https://www.youtube.com/watch?v=nskYs4qUmX4)
+[![Azure Private DNS na prática](https://ytcards.demolab.com/?id=IUCF5KJkBqs&title=Azure+Private+DNS+na+pr%C3%A1tica&lang=en&timestamp=1707678089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Private DNS na prática")](https://www.youtube.com/watch?v=IUCF5KJkBqs)
+[![Certificação GitHub](https://ytcards.demolab.com/?id=w9hVLIssF-k&title=Certifica%C3%A7%C3%A3o+GitHub&lang=en&timestamp=1706352028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Certificação GitHub")](https://www.youtube.com/watch?v=w9hVLIssF-k)
 <!-- END YOUTUBE-CARDS -->
 
 #
