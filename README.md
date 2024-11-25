@@ -3,7 +3,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Connect with me" width="50">](https://www.linkedin.com/in/andersonsoaresl) <br>**`Platform Engineer (DevOps/Cloud/Creator)`**
 
 <br>
-Currently working as Cloud Solution Architect @ Microsoft **- views my own**. I also own a YouTube channel, actually I am learning every day about it, I know more of Tech then video editing but that's not a problem, I LOVE sharing knowledge as much as I can, doesn't matter how, so I try to broadcast my audiance to multiple platforms, I think I am getting good at it.
+Currently working as Cloud Solution Architect @ Microsoft. I also own a YouTube channel ( VIEWS MY OWN ), actually I am learning every day about it, I know more of Tech then video editing but that's not a problem, I LOVE sharing knowledge as much as I can, doesn't matter how, so I try to broadcast my audiance to multiple platforms, I think I am getting good at it.
 You might be curious about my channe I know, so check it below: <br>
 <br><br>
 
