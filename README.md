@@ -44,12 +44,7 @@ You might be curious about my channe I know, so check it below: <br>
 
 ### 📺 My latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![HOW TO CREATE A COMPLETE AZURE INVENTORY REPORT](https://ytcards.demolab.com/?id=yYzxtlgFlQg&title=HOW+TO+CREATE+A+COMPLETE+AZURE+INVENTORY+REPORT&lang=en&timestamp=1777737606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HOW TO CREATE A COMPLETE AZURE INVENTORY REPORT")](https://www.youtube.com/watch?v=yYzxtlgFlQg)
-[![Azure Managed Grafana](https://ytcards.demolab.com/?id=R9xHrGUBXT8&title=Azure+Managed+Grafana&lang=en&timestamp=1769670045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Managed Grafana")](https://www.youtube.com/watch?v=R9xHrGUBXT8)
-[![HOW TO DEPLOY AZURE MANAGED GRAFANA](https://ytcards.demolab.com/?id=2dlxfHQuKXc&title=HOW+TO+DEPLOY+AZURE+MANAGED+GRAFANA&lang=en&timestamp=1768411806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HOW TO DEPLOY AZURE MANAGED GRAFANA")](https://www.youtube.com/watch?v=2dlxfHQuKXc)
-[![AZURE ARCBOX — FULL DEPLOYMENT](https://ytcards.demolab.com/?id=lNQy6Mgi2vU&title=AZURE+ARCBOX+%E2%80%94+FULL+DEPLOYMENT&lang=en&timestamp=1768132806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AZURE ARCBOX — FULL DEPLOYMENT")](https://www.youtube.com/watch?v=lNQy6Mgi2vU)
-[![HOW TO RESIZE AZURE VIRTUAL MACHINE](https://ytcards.demolab.com/?id=_C5nRvIyLCU&title=HOW+TO+RESIZE+AZURE+VIRTUAL+MACHINE&lang=en&timestamp=1767869106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HOW TO RESIZE AZURE VIRTUAL MACHINE")](https://www.youtube.com/watch?v=_C5nRvIyLCU)
-[![AZURE VIRTUAL DESKTOP - LANDING ZONE ACCELERATOR - FULL DEOPLOYMENT](https://ytcards.demolab.com/?id=C5PeGv-Hqps&title=AZURE+VIRTUAL+DESKTOP+-+LANDING+ZONE+ACCELERATOR+-+FULL+DEOPLOYMENT&lang=en&timestamp=1767801606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AZURE VIRTUAL DESKTOP - LANDING ZONE ACCELERATOR - FULL DEOPLOYMENT")](https://www.youtube.com/watch?v=C5PeGv-Hqps)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
